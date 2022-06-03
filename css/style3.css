@@ -1,0 +1,60 @@
+#salvar {
+    background-color: rgb(163, 39, 22);
+    color: rgb(255, 255, 255);
+}
+
+
+thead {
+        color: #000;
+        background-color: rgb(0, 117, 252) ;
+        
+}
+
+thead :hover {
+        color: #000;
+        background-color: rgb(11, 150, 214) ; 
+    
+}
+tbody {
+    color: #000;
+    background-color: rgb(8, 122, 216) ;
+    
+}
+
+tbody :hover {
+    color: #000;
+    background-color: rgb(0, 140, 255) ; 
+
+}
+
+
+* {
+    text-align: center;
+    margin: auto;
+}
+
+body {
+    background-image: url(../img/lll.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#r {
+    background-color: #00fff2;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all .3s ease-out;
+}
+#r:hover {
+   background-color: #00ccff;
+}
+input {
+
+    background-color: #00b7ff;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all .3s ease-out;
+}
+input:hover {
+   background-color: #0683f8;
+}
